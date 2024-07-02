@@ -9,13 +9,13 @@
 
 - 🔭 I’m currently working on [Shaddi.com](https://shaadidotcom-af40a.web.app)
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **JavaScript, Next.Js**
 
 - 👯 I’m looking to collaborate on [LibraryRoom](https://user-email-passwoed-auth.web.app)
 
 - 🤝 I’m looking for help with [Art&Craft's](https://assignment-10-art-craft-56221.web.app)
 
-- 👨‍💻 All of my projects are available at [Portfolio](file:///D:/Web%20Development/My%20Portfolio/index.html#project-area)
+- 👨‍💻 All of my projects are available at [Portfolio](https://shuvankor-hazra.github.io/My-Portfolio)
 
 - 💬 Ask me about **React, JavaScript**
 
