@@ -1,4 +1,5 @@
 ![logo](https://github.com/Shuvankor-Hazra/Shuvankor-Hazra/blob/main/Black%20Elegant%20and%20Modern%20Startup%20Pitch%20Deck%20Presentation%20(1).png)
+
 <h1 align="center">Hi 👋, I'm Shuvankor Hazra</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
