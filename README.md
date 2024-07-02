@@ -2,10 +2,9 @@
 <h1 align="center">Hi 👋, I'm Shuvankor Hazra</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
 
-<img align="right" alt="coading" width="400" src="[image](https://github.com/Shuvankor-Hazra/Shuvankor-Hazra/assets/117534734/0f3b44e6-5a8d-4307-97ed-5143bc5111cf)
-"/>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvankor-hazra&label=Profile%20views&color=0e75b6&style=flat" alt="shuvankor-hazra" /> </p>
+
+<img align="right" alt="coading" width="400" src="https://github.com/Shuvankor-Hazra/Shuvankor-Hazra/assets/117534734/0f3b44e6-5a8d-4307-97ed-5143bc5111cf"/>
 
 - 🔭 I’m currently working on [Shaddi.com](https://shaadidotcom-af40a.web.app)
 
