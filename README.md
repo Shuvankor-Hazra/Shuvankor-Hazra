@@ -1,7 +1,7 @@
 <!-- ![logo](https://github.com/Shuvankor-Hazra/Shuvankor-Hazra/blob/main/Black%20Elegant%20and%20Modern%20Startup%20Pitch%20Deck%20Presentation%20(1).png) -->
 
 <h1 align="center">Hi 👋, I'm Shuvankor Hazra</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh.</h3>
+<h3 align="center">Full stack web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shuvankor-hazra&label=Profile%20views&color=0e75b6&style=flat" alt="shuvankor-hazra" /> </p>
 
